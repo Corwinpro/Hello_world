@@ -17,7 +17,6 @@ double test_123;
  
 double Ua;	//Граничное условие слева
 double Ub = 0.0;										//Граничное условие справа
-double Test;
  
 int size = 1+(b-a)/h;
  
