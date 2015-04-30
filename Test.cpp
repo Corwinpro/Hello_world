@@ -2,5 +2,7 @@
 
 void main()
 {
-return;
+	
+	double i;
+	return;
 }
