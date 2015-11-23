@@ -2,6 +2,7 @@
 
 void main()
 {
+	double HEY;	
 	
 	double i;
 	return;
